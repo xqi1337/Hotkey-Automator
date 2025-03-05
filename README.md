@@ -1,4 +1,4 @@
-# QuickCheck-Hotkey-Automator
+# Hotkey-Automator
 
 
 python3 clip.py --file_path accounts.txt
